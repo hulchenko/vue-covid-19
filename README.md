@@ -1,25 +1,9 @@
-# vue-covid-19
+# Vue-Covid-19
 
-Environment: Vue, Tailwind
+### Environment: Vue, Tailwind
 
-## Project setup
+## [LIVE DEMO](https://relaxed-thompson-7bcbce.netlify.app/)
 
-```
-npm install
-```
+<img src="https://i.imgur.com/IT5Q1p1.png" width="700">
 
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### [cfg](https://github.com/hulchenko/vue-covid-19/blob/main/cfg.md)
