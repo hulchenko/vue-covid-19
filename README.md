@@ -1,3 +1,5 @@
+Update: as of 12/08/2023 the API is no longer accessible.
+
 # Vue-Covid-19
 
 ### Environment: Vue, Tailwind
