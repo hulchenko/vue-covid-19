@@ -1,8 +1,8 @@
 ## COVID-19 Tracker
 
-This is a **Mortgage Calculator** API built using **Express.js**.
-The application provides functionality to calculate mortgage payment schedules and generate CSV reports of the mortgage payment breakdown.
-The API takes into account variables such as the principal loan amount, interest rate, amortization period, term, and optional deposit, returning a detailed payment schedule and cost summary.
+This app provides real-time COVID-19 statistics by country, allowing users to track confirmed cases, deaths, recoveries, and critical data globally.
+Using the RapidAPI COVID-19 Data API, the app fetches the latest information and presents it in an easy-to-read format.
+Users can select a country from a dropdown, and the app dynamically updates the displayed stats for the selected location.
 
 <img src="https://raw.githubusercontent.com/hulchenko/vue-covid-19/refs/heads/main/public/images/covid-19-tracker.png" alt="App Screenshot"/>
 
