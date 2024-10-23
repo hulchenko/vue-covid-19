@@ -13,6 +13,7 @@ The API takes into account variables such as the principal loan amount, interest
 
 ### Technologies Used:
 
+- **Vite**
 - **Vue.js**
 - **Tailwind**
 - **COVID-19 API**: See [documentation](https://rapidapi.com/Gramzivi/api/covid-19-data).
