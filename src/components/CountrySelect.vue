@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from "vue";
-import countries from "@/data/countries.json";
+import countries from "../data/countries.json";
 
 const { modelValue } = defineProps(["modelValue"]); // country
 const emit = defineEmits(["changeCountry, updateLoading"]);

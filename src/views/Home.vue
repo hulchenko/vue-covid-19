@@ -2,9 +2,9 @@
 import { ref, onMounted } from "vue";
 const API_KEY = import.meta.env.VITE_API_KEY;
 
-import DataTitle from "@/components/DataTitle.vue";
-import DataBoxes from "@/components/DataBoxes.vue";
-import CountrySelect from "@/components/CountrySelect.vue";
+import DataTitle from "../components/DataTitle.vue";
+import DataBoxes from "../components/DataBoxes.vue";
+import CountrySelect from "../components/CountrySelect.vue";
 
 const loading = ref(true);
 const currCountry = ref("Canada");
